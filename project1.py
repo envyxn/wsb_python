@@ -57,3 +57,4 @@ print(surname[-2]) # k
 print(surname[-2:]) # ki
 print(surname[:-2]) # Kowals
 print(surname[:-2:2]) # Kwl (od 1st do ostatnich 2, z przeskokiem co 2 znaki)
+jjj
